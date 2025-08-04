@@ -1,0 +1,17 @@
+# Ignore CLion/JetBrains config
+.idea/
+
+# Ignore build folder
+cmake-build-*/
+
+# Ignore OS/cache/system files
+%SystemDrive%/
+*.db
+*.exe
+*.obj
+*.o
+*.log
+
+# Ignore temporary files
+Temp/
+*.dat
