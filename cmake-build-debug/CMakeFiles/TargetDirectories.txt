@@ -1,0 +1,3 @@
+E:/Semester 1/Project/PRG 1/Code/Cafe Alfarani/cmake-build-debug/CMakeFiles/PRG_1.dir
+E:/Semester 1/Project/PRG 1/Code/Cafe Alfarani/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Semester 1/Project/PRG 1/Code/Cafe Alfarani/cmake-build-debug/CMakeFiles/rebuild_cache.dir
